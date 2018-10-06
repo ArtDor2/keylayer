@@ -50,7 +50,8 @@ return
 !d::Send {6}
 !q::Send {7}
 !w::Send {8}
-!e::Send {9}
+!e::Send {0}
+!r::Send {9}
 
 
 ; ADD autocomplete for common words: autohotkey, python, javascript
