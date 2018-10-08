@@ -4,3 +4,4 @@ C:\Users\Artur\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 mpv.config      MPV player config.
 C:\Users\Artur\AppData\Roaming\mpv
+- [ ] add Ctrl+W to close player
