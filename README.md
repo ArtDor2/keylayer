@@ -1,4 +1,4 @@
-# win-tweaks: a set of my used tweaks for windows 10 2018-10-08
+# win-tweaks: a set of my tweaks for windows 10
 startup.ahk     Autohotkey script for qwerty keyboard to launch on windows startup. 
 C:\Users\Artur\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
