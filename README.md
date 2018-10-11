@@ -4,4 +4,4 @@ C:\Users\Artur\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 mpv.config & input.conf      MPV player config.
 C:\Users\Artur\AppData\Roaming\mpv
-- [ ] add Ctrl+W to close player
+- [x] add Ctrl+W to close player (in input.conf)
