@@ -18,7 +18,7 @@ return
 *!Shift::return
 
 ; Insert key to rename file
-Insert::
+*+Insert::
 Send {F2}
 Sleep, 10
 Send {Left}
@@ -73,6 +73,10 @@ return
 
 
 ; ADD  ctr + capslock + wasd for arrows control
+
+; chrome browser switch between tabs
+RCtrl & Left:: Send, +^{Tab}
+RCtrl & Right:: Send, ^{Tab}
 
 
 ; autohotkey typing shift+ alt letters for symbols for programming
